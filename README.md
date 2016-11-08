@@ -1,5 +1,5 @@
 # Sketch-iOS-Library
-Most Sketch resources aren’t accurate and don’t share how they go the specs they’re providing. I’ve decided to find out how something looks/works in Xcode and do the best to replicate it. Even further, I share how I ended up with my result so you can take what I know and look into it further if you’re interested.
+I’ve decided to find out how something looks/works in Xcode and do the best to replicate it. I also documented how I ended up with my result so you can look into things even further if you’re interested.
 
 ## UIFontTextStyle
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).

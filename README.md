@@ -1,6 +1,11 @@
 # Sketch-iOS-Library
 I’ve decided to find out how something looks/works in Xcode and do the best to replicate it. I also documented how I ended up with my result so you can look into things even further if you’re interested.
 
+## UIBlurEffectStyle
+![uiblureffectstyle](https://cloud.githubusercontent.com/assets/3231370/20086487/b8aa0864-a53e-11e6-82a5-be526e1edd7a.png)
+
+Apple doesn’t share any specs for the three types of blurs they provide us.
+
 ## UIFontTextStyle
 ![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20086488/b8b37af2-a53e-11e6-9a0d-c25caa93a9cb.png)
 
@@ -31,8 +36,3 @@ Apple provides the name of ten [text styles](https://developer.apple.com/referen
 2. Printed the specs in Xcode, for example: `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`
 
 3. Changed the tracking to what [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends.
-
-## UIBlurEffectStyle
-![uiblureffectstyle](https://cloud.githubusercontent.com/assets/3231370/20086487/b8aa0864-a53e-11e6-82a5-be526e1edd7a.png)
-
-Apple doesn’t share any specs for the three types of blurs they provide us.

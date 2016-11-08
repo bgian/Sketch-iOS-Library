@@ -7,7 +7,7 @@ I’ve decided to find out how something looks/works in Xcode and do the best to
 Apple doesn’t share any specs for the three types of blurs they provide us.
 
 # UIFontTextStyle
-![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20086488/b8b37af2-a53e-11e6-9a0d-c25caa93a9cb.png)
+![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20086527/f826d1fc-a53e-11e6-9d92-de932445b1e7.png)
 
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 

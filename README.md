@@ -3,7 +3,7 @@ Most Sketch resources aren’t accurate and don’t share how they go the specs 
 
 ## UIFontTextStyle
 
-![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20086065/77bf1428-a53b-11e6-99e7-7600cc96e0ea.png)
+![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20086149/1bee9640-a53c-11e6-868b-519f6d0d6dc0.png)
 
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 

@@ -2,9 +2,9 @@
 I’ve decided to find out how something looks/works in Xcode and do the best to replicate it. I also documented how I ended up with my result so you can look into things even further if you’re interested.
 
 ## UIFontTextStyle
-Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
-
 ![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20086149/1bee9640-a53c-11e6-868b-519f6d0d6dc0.png)
+
+Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
 **Usage**
 

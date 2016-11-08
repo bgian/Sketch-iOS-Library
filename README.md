@@ -17,11 +17,9 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 Apple provides the name of ten [text styles](https://developer.apple.com/reference/uikit/uifonttextstyle). Since we design with the default (large) dynamic type size, I decided it’d make sense to get the specs for these.
 
 1. I made a list of these ten styles:
-
 `Title1` `Title2` `Title3` `Headline` `Subhead` `Body` `Footnote` `Caption1` `Caption2` `Callout`
 
 2. Printed the specs in Xcode, for example:
-
 `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`
 
 3. Changed the tracking to what [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends.

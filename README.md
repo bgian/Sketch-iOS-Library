@@ -1,4 +1,4 @@
-![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20457781/a31204fe-ae60-11e6-8785-21f0529285b0.png)
+![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20457787/d4c9b686-ae60-11e6-94f1-46530208e1f5.png)
 
 # Sketch-iOS-Library
 I’ve decided to find out how something looks/works in Xcode and do the best to replicate it. I also documented how I ended up with my result so you can look into things even further if you’re interested.

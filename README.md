@@ -4,17 +4,9 @@ I’ve decided to find out how something looks/works in Xcode and do the best to
 ![cover](https://cloud.githubusercontent.com/assets/3231370/20457930/d6728fb8-ae64-11e6-910c-c51ec1d755a9.png)
 
 ## UIBlurEffectStyle
-Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate.
-
-#### Usage
-
-1. Open `UIBlurEffectStyle.sketch`
-2. Right click on a blur type
-3. Copy & Paste style on a layer
+Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate. I can see why they're not open to us creating our own blur in code for performance concerns. However, if we want to design with accurate blurs, we atleast have the three [blur types](https://developer.apple.com/reference/uikit/uiblureffectstyle).
 
 #### Process
-
-Apple provides the name of three [blur types](https://developer.apple.com/reference/uikit/uiblureffectstyle).
 
 1. Create a few colorful shapes
 2. Render and export each type of blur over these shapes in Xcode:
@@ -23,18 +15,16 @@ Apple provides the name of three [blur types](https://developer.apple.com/refere
   - Dark
 3. Replicate each blur type in Sketch
 
+#### Usage
+
+1. Open `UIBlurEffectStyle.sketch`
+2. Right click on a blur type
+3. Copy & Paste style on a layer
+
 ## UIFontTextStyle
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
-#### Usage
-
-1. Open `UIFontTextStyle.sketch`
-2. Copy & Paste artboard into Sketch document
-3. Assign texts to a system style
-
 #### Process
-
-Apple provides the name of ten [text styles](https://developer.apple.com/reference/uikit/uifonttextstyle). Since we design with the default (large) dynamic type size, I decided it’d make sense to get the specs for those.
 
 1. I made a list of these ten styles:
   - `Title1`
@@ -49,3 +39,9 @@ Apple provides the name of ten [text styles](https://developer.apple.com/referen
   - `Callout`
 2. Printed the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
 3. Used font tracking [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends
+
+#### Usage
+
+1. Open `UIFontTextStyle.sketch`
+2. Copy & Paste artboard into Sketch document
+3. Assign texts to a system style

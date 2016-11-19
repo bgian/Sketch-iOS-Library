@@ -4,7 +4,7 @@ I’ve decided to find out how something looks/works in Xcode and do the best to
 ![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20457787/d4c9b686-ae60-11e6-94f1-46530208e1f5.png)
 
 # UIBlurEffectStyle
-![uiblureffectstyle](https://cloud.githubusercontent.com/assets/3231370/20457797/013c1646-ae61-11e6-9886-eebef1a4ac2d.png)
+![uiblureffectstyle](https://cloud.githubusercontent.com/assets/3231370/20457810/449cfa9a-ae61-11e6-8f94-29baf05d5645.png)
 
 Apple doesn’t share any specs for the three types of blurs they provide us.
 

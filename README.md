@@ -13,6 +13,7 @@ Apple doesn’t share any specs for their blurs, so it makes it more of a challa
 3. Copy & Paste style on a layer
 
 **Process**
+
 Apple provides the name of three [blur types](https://developer.apple.com/reference/uikit/uiblureffectstyle).
 
 1. Create a few colorful shapes

@@ -1,7 +1,7 @@
 # Sketch-iOS-Library
 I’ve decided to find out how something looks/works in Xcode and do the best to replicate it. I also documented how I ended up with my result so you can look into things even further if you’re interested.
 
-![cover](https://cloud.githubusercontent.com/assets/3231370/20457881/54dc7df2-ae63-11e6-8fc9-a4e74683d36d.png)
+![cover](https://cloud.githubusercontent.com/assets/3231370/20457930/d6728fb8-ae64-11e6-910c-c51ec1d755a9.png)
 
 ## UIBlurEffectStyle
 Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate.

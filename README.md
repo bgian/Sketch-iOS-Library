@@ -6,13 +6,13 @@ I’ve decided to find out how something looks/works in Xcode and do the best to
 ## UIBlurEffectStyle
 Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate.
 
-**Usage**
+#### Usage
 
 1. Open `UIBlurEffectStyle.sketch`
 2. Right click on a blur type
 3. Copy & Paste style on a layer
 
-**Process**
+#### Process
 
 Apple provides the name of three [blur types](https://developer.apple.com/reference/uikit/uiblureffectstyle).
 
@@ -26,13 +26,13 @@ Apple provides the name of three [blur types](https://developer.apple.com/refere
 ## UIFontTextStyle
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
-**Usage**
+#### Usage
 
 1. Open `UIFontTextStyle.sketch`
 2. Copy & Paste artboard into Sketch document
 3. Assign texts to a system style
 
-**Process**
+#### Process
 
 Apple provides the name of ten [text styles](https://developer.apple.com/reference/uikit/uifonttextstyle). Since we design with the default (large) dynamic type size, I decided it’d make sense to get the specs for those.
 

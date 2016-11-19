@@ -3,13 +3,13 @@ I’ve decided to find out how something looks/works in Xcode and do the best to
 
 ![cover](https://cloud.githubusercontent.com/assets/3231370/20457930/d6728fb8-ae64-11e6-910c-c51ec1d755a9.png)
 
-## UIBlurEffectStyle
-Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate. I can see why they're not open to us creating our own blur in code for performance concerns. However, if we want to design with accurate blurs, we atleast have the three [blur types](https://developer.apple.com/reference/uikit/uiblureffectstyle).
+## UIBlurEffectStyleI
+Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate. For performance concerns, I can see why they're not open to developers replicating blurs. However, as designers we want to design with accurate specs. \\
 
 #### Process
 
 1. Create a few colorful shapes
-2. Render and export each type of blur over these shapes in Xcode:
+2. Render and export each [type of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over these shapes in Xcode:
   - ExtraLight
   - Light
   - Dark

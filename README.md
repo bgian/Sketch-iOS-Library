@@ -12,7 +12,7 @@ Apple doesn’t share any specs for their blurs, so it makes it a challange to r
 2. Copy style of a blur type
 3. Paste style to any shape
 
-#### My process
+#### How
 
 1. Created a few colorful shapes to blur
 2. Rendered and exported each [type of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over the shapes in Xcode:
@@ -30,7 +30,7 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 2. Copy & Paste artboard into Sketch document
 3. Assign texts to a system style
 
-#### My process
+#### How
 
 1. Put together a list of all ten text styles:
   - `Title1`

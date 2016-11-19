@@ -14,12 +14,12 @@ Apple doesn’t share any specs for their blurs, so it makes it a challange to r
 
 #### Process
 
-1. Create a few colorful shapes
-2. Render and export each [type of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over these shapes in Xcode:
+1. Created a few colorful shapes to blur
+2. Rendered and exported each [type of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over the shapes in Xcode:
   - ExtraLight
   - Light
   - Dark
-3. Replicate each blur type in Sketch
+3. Replicated each blur type in Sketch
 
 ## UIFontTextStyle
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
@@ -32,7 +32,7 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 
 #### Process
 
-1. I made a list of these ten styles:
+1. Put together a list of all ten text styles:
   - `Title1`
   - `Title2`
   - `Title3`
@@ -43,5 +43,5 @@ Apple’s system fonts are designed for legibility and provide a variety of size
   - `Caption1`
   - `Caption2`
   - `Callout`
-2. Printed the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
+2. Printed out the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
 3. Used font tracking [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends

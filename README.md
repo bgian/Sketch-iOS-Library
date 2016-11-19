@@ -32,7 +32,7 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 
 #### Process
 
-1. Put together a list of all ten text styles:
+1. Made a list of all ten text styles:
   - `Title1`
   - `Title2`
   - `Title3`

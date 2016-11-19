@@ -1,7 +1,7 @@
 # Sketch-iOS-Library
 I’ve decided to find out how something works in Xcode and do my best to replicate it. I also documented the process of how I ended up with my result so you can look into things even further if you’re interested.
 
-![cover](https://cloud.githubusercontent.com/assets/3231370/20458200/1410ab28-ae6c-11e6-9a85-ad44b9482e32.png)
+![cover](https://cloud.githubusercontent.com/assets/3231370/20458209/7da01402-ae6c-11e6-917d-2cf54fa41992.png)
 
 ## UIBlurEffectStyle
 Apple doesn’t share any specs for their blurs, so it makes it a challange to replicate. For performance concerns, I understand why Apple isn't allow us to customize blurs as easily as we do with fonts. However, as designers we want to design with accurate specs.

@@ -4,7 +4,7 @@ I’ve decided to find out how something looks/works in Xcode and do the best to
 ![cover](https://cloud.githubusercontent.com/assets/3231370/20457930/d6728fb8-ae64-11e6-910c-c51ec1d755a9.png)
 
 ## UIBlurEffectStyleI
-Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate. For performance concerns, I can see why they're not open to developers replicating blurs. However, as designers we want to design with accurate specs. \\
+Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate. For performance concerns, I can see why they're not open to developers replicating blurs. However, as designers we want to design with accurate specs.
 
 #### Process
 

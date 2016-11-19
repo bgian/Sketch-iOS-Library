@@ -47,5 +47,5 @@ Apple provides the name of ten [text styles](https://developer.apple.com/referen
   - `Caption1`
   - `Caption2`
   - `Callout`
-2. Printed the specs in Xcode, for example: `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`
-3. Changed the tracking to what [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends.
+2. Printed the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
+3. Changed font tracking to what [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends.

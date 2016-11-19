@@ -6,6 +6,12 @@ I’ve decided to find out how something works in Xcode and do my best to replic
 ## UIBlurEffectStyle
 Apple doesn’t share any specs for their blurs, so it makes it a challange to replicate. For performance concerns, I understand why Apple isn't allow us to customize blurs as easily as we do with fonts. However, as designers we want to design with accurate specs.
 
+#### Usage
+
+1. Open `UIBlurEffectStyle.sketch`
+2. Right click on a blur type
+3. Copy & Paste style on a layer
+
 #### Process
 
 1. Create a few colorful shapes
@@ -15,14 +21,14 @@ Apple doesn’t share any specs for their blurs, so it makes it a challange to r
   - Dark
 3. Replicate each blur type in Sketch
 
-#### Usage
-
-1. Open `UIBlurEffectStyle.sketch`
-2. Right click on a blur type
-3. Copy & Paste style on a layer
-
 ## UIFontTextStyle
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
+
+#### Usage
+
+1. Open `UIFontTextStyle.sketch`
+2. Copy & Paste artboard into Sketch document
+3. Assign texts to a system style
 
 #### Process
 
@@ -39,9 +45,3 @@ Apple’s system fonts are designed for legibility and provide a variety of size
   - `Callout`
 2. Printed the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
 3. Used font tracking [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends
-
-#### Usage
-
-1. Open `UIFontTextStyle.sketch`
-2. Copy & Paste artboard into Sketch document
-3. Assign texts to a system style

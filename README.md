@@ -8,7 +8,7 @@ Apple doesn’t share any specs for their blurs, so it makes it more of a challa
 
 **Usage**
 
-1. Open `UIBlurEffectStyle`
+1. Open `UIBlurEffectStyle.sketch`
 2. Right click on a blur
 3. Copy & Paste style on a layer
 

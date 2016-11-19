@@ -3,24 +3,33 @@ I’ve decided to find out how something looks/works in Xcode and do the best to
 
 ![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20457787/d4c9b686-ae60-11e6-94f1-46530208e1f5.png)
 
-# UIBlurEffectStyle
-![uiblureffectstyle](https://cloud.githubusercontent.com/assets/3231370/20457810/449cfa9a-ae61-11e6-8f94-29baf05d5645.png)
+## UIBlurEffectStyle
+Apple doesn’t share any specs for their blurs, so it makes it more of a challange to replicate.
 
-Apple doesn’t share any specs for the three types of blurs they provide us.
+**Usage**
+1. Open `UIBlurEffectStyle`
+2. Right click on a blur
+3. Copy & Paste style on a layer
 
-# UIFontTextStyle
-![uifonttextstyles](https://cloud.githubusercontent.com/assets/3231370/20086527/f826d1fc-a53e-11e6-9d92-de932445b1e7.png)
+**Process**
+Apple provides the name of three [blur types](https://developer.apple.com/reference/uikit/uiblureffectstyle).
 
+1. Create a few colorful shapes
+2. Render and export each type of blur over these shapes in Xcode:
+  - Dark
+  - Light
+  - Extra Light
+3. Replicate each blur type in Sketch
+
+## UIFontTextStyle
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
 **Usage**
-
 1. Open `UIFontTextStyle.sketch`
 2. Copy & Paste artboard into Sketch document
 3. Assign texts to a system style
 
 **Process**
-
 Apple provides the name of ten [text styles](https://developer.apple.com/reference/uikit/uifonttextstyle). Since we design with the default (large) dynamic type size, I decided it’d make sense to get the specs for those.
 
 1. I made a list of these ten styles:
@@ -34,7 +43,5 @@ Apple provides the name of ten [text styles](https://developer.apple.com/referen
   - `Caption1`
   - `Caption2`
   - `Callout`
-
 2. Printed the specs in Xcode, for example: `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`
-
 3. Changed the tracking to what [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends.

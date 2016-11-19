@@ -9,7 +9,7 @@ Apple doesn’t share any specs for their blurs, so it makes it more of a challa
 **Usage**
 
 1. Open `UIBlurEffectStyle.sketch`
-2. Right click on a blur
+2. Right click on a blur type
 3. Copy & Paste style on a layer
 
 **Process**
@@ -18,9 +18,9 @@ Apple provides the name of three [blur types](https://developer.apple.com/refere
 
 1. Create a few colorful shapes
 2. Render and export each type of blur over these shapes in Xcode:
-  - Dark
+  - ExtraLight
   - Light
-  - Extra Light
+  - Dark
 3. Replicate each blur type in Sketch
 
 ## UIFontTextStyle

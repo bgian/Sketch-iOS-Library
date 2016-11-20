@@ -52,4 +52,4 @@ As I work on projects, I'm usually forced to replicate a native style because mo
 #### Questions/Feedback
 
 - Twitter: <a href="https://twitter.com/_bgian">@_bgian</a>
-- Email: <a href="mailto:hi@bobby.so>hi@bobby.so</a>
+- Email: <a href="mailto:hi@bobby.so">hi@bobby.so</a>

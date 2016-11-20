@@ -45,3 +45,11 @@ Apple’s system fonts are designed for legibility and provide a variety of size
   - `Callout`
 2. Printed out the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
 3. Used font tracking [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends
+
+## Thanks
+As I work on projects, I'm usually forced to replicate a native style because most resources aren't accurate. Let me know if you'd like me to look into something - until then I'll be adding to this issue as I go!
+
+#### Questions/Feedback
+
+- Twitter: [@_bgian](http://twitter.com/_bgian target="_blank")
+- Email: [hi@bobby.so](mailto:hi@bobby.so?subject:Sketch-iOS-Library target="_blank")

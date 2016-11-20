@@ -47,9 +47,9 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 3. Used font tracking [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends
 
 ## Thanks ✌️
-As I work on projects, I'm usually forced to replicate a native style because most resources aren't accurate. Let me know if you'd like me to look into something - until then I'll be adding to this issue as I go!
+As I work on projects, I'm usually forced to replicate a native style because most resources aren't accurate. Let me know if you'd like me to look into something!
 
 #### Questions/Feedback
 
-- Twitter: <a href="https://twitter.com/_bgian" target="_blank">@_bgian</a>
-- Email: <a href="mailto:hi@bobby.so?subject=Sketch-iOS-Library">hi@bobby.so</a>
+- Twitter: <a href="https://twitter.com/_bgian">@_bgian</a>
+- Email: <a href="mailto:hi@bobby.so>hi@bobby.so</a>

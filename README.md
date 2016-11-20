@@ -1,10 +1,10 @@
 # Sketch-iOS-Library
-I’ve decided to find out how something works in Xcode and do my best to replicate it. I also documented the process of how I ended up with my result so you can look into things even further if you’re interested.
+I’ve decided to take a style from Xcode and do my best to replicate it for Sketch. I also documented the process of how I ended up with my result so you can look into things even further if you’re interested.
 
 ![cover](https://cloud.githubusercontent.com/assets/3231370/20458209/7da01402-ae6c-11e6-917d-2cf54fa41992.png)
 
 ## UIBlurEffectStyle
-Apple doesn’t share any specs for their blurs, so it makes it a challange to replicate. For performance concerns, I understand why Apple isn't allow us to customize blurs as easily as we do with fonts. However, as designers we want to design with accurate specs.
+The API doesn't provide any specs for blurs, so it's a challange to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.
 
 #### Usage
 
@@ -15,10 +15,10 @@ Apple doesn’t share any specs for their blurs, so it makes it a challange to r
 #### Process
 
 1. Created a few colorful shapes to blur
-2. Rendered and exported each [type of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over the shapes in Xcode:
-  - ExtraLight
-  - Light
-  - Dark
+2. Rendered and exported all three [types of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over the shapes in Xcode:
+  - extraLight
+  - light
+  - dark
 3. Replicated each blur type in Sketch
 
 ## UIFontTextStyle

@@ -51,5 +51,5 @@ As I work on projects, I'm usually forced to replicate a native style because mo
 
 #### Questions/Feedback
 
-- Twitter: <a href="http://twitter.com/_bgian target="_blank">@_bgian</a>
+- Twitter: <a href="https://twitter.com/_bgian" target="_blank">@_bgian</a>
 - Email: <a href="mailto:hi@bobby.so?subject:Sketch-iOS-Library">hi@bobby.so</a>

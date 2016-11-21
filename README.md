@@ -2,7 +2,7 @@
 
 ![cover](https://cloud.githubusercontent.com/assets/3231370/20458209/7da01402-ae6c-11e6-917d-2cf54fa41992.png)
 
-I’ve decided take a styles from Xcode and do my best to replicate them for Sketch.
+I’ve decided take styles from Xcode and do my best to replicate them for Sketch.
 
 Along the way, I documented the process of how I ended up with my result so you can look into things even further if you’re interested. I'll be adding more resources as I need them!
 

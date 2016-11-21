@@ -1,7 +1,8 @@
-# Sketch-iOS-Library
-I’ve decided to take a style from Xcode and do my best to replicate it for Sketch. I also documented the process of how I ended up with my result so you can look into things even further if you’re interested.
+# iOS Library for Sketch
 
 ![cover](https://cloud.githubusercontent.com/assets/3231370/20458209/7da01402-ae6c-11e6-917d-2cf54fa41992.png)
+
+I’ve decided take a styles from Xcode and do my best to replicate them for Sketch. I also documented the process of how I ended up with my result so you can look into things even further if you’re interested. I'll be adding more resources as I need them!
 
 ## UIBlurEffectStyle
 The API doesn't provide any specs for blurs, so it's a challange to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.

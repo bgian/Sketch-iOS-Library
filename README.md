@@ -19,9 +19,9 @@ The API doesn't provide any specs for blurs, so it's a challange to replicate. F
 
 1. Created a few colorful shapes to blur
 2. Rendered and exported all three [types of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over the shapes in Xcode:
-  - extraLight
-  - light
-  - dark
+  - `extraLight`
+  - `light`
+  - `dark`
 3. Replicated each blur type in Sketch
 
 ## UIFontTextStyle

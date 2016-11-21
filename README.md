@@ -9,13 +9,13 @@ Along the way, I documented the process of how I ended up with my result so you 
 ## UIBlurEffectStyle
 The API doesn't provide any specs for blurs, so it's a challange to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.
 
-#### Usage
+#### Usage:
 
 1. Open `UIBlurEffectStyle.sketch`
 2. Copy style of a blur type
 3. Paste style to any shape
 
-#### Process
+#### Process:
 
 1. Created a few colorful shapes to blur
 2. Rendered and exported all three [types of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over the shapes in Xcode:
@@ -27,13 +27,13 @@ The API doesn't provide any specs for blurs, so it's a challange to replicate. F
 ## UIFontTextStyle
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
-#### Usage
+#### Usage:
 
 1. Open `UIFontTextStyle.sketch`
 2. Copy & Paste artboard into Sketch document
 3. Assign texts to a system style
 
-#### Process
+#### Process:
 
 1. Made a list of all ten text styles:
   - `Title1`
@@ -52,7 +52,7 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 ## Thanks ✌️
 As I work on projects, I'm usually forced to replicate a native style because most resources aren't accurate. If I happen to run into any other styles to recreate I'll add them to this repo. Let me know if you'd like me to look into something!
 
-#### Contact
+#### Contact:
 
 - Twitter: <a href="https://twitter.com/_bgian">@_bgian</a>
 - Email: <a href="mailto:hi@bobby.so">hi@bobby.so</a>

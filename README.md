@@ -7,8 +7,6 @@ I’ve decided to take styles from Xcode and do my best to replicate them for Sk
 Along the way, I documented the process of how I ended up with my result so you can look into things even further if you’re interested. I'll be adding more resources as I need them!
 
 ## UIBlurEffectStyle
-![blur](https://cloud.githubusercontent.com/assets/3231370/20606865/e593ff50-b241-11e6-8ddc-a59f91151ed1.png)
-
 The API doesn't provide any specs for blurs, so it's a challange to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.
 
 #### Usage:
@@ -27,8 +25,6 @@ The API doesn't provide any specs for blurs, so it's a challange to replicate. F
 3. Replicated each blur type in Sketch
 
 ## UIFontTextStyle
-![fonts](https://cloud.githubusercontent.com/assets/3231370/20606792/42946006-b241-11e6-89ac-f2d006480eb6.png)
-
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
 #### Usage:

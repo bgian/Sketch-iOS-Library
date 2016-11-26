@@ -1,8 +1,6 @@
 ![cover 2](https://cloud.githubusercontent.com/assets/3231370/20640456/48c94ee8-b3ac-11e6-8695-278eb72c2f12.png)
 
-I’ve decided to take styles from Xcode and do my best to replicate them for Sketch.
-
-Along the way, I documented the process of how I ended up with my result so you can look into things even further if you’re interested. I'll be adding more resources as I need them!
+I’ve decided to take styles from Xcode and do my best to replicate them for Sketch. Along the way, I documented the process of how I ended up with the result so you can look into things even further.
 
 # UIBlurEffectStyle
 The API doesn't provide any specs for blurs, so it's a challange to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.
@@ -52,14 +50,14 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 #### Contribute:
 See something worth replicating? Let's look into it together.
 
-1. Create a <a href="https://github.com/bgian/Sketch-iOS-Library/issues/new">new issue<a/>
+1. Create a [new issue](https://github.com/bgian/Sketch-iOS-Library/issues/new)
 2. Add `Suggestion` tag
 3. Be descriptive!
 
 #### Feedback:
 Spotted something that doesn't look accurate? I doubt it. It's worth reporting anyways!
 
-1. Create a <a href="https://github.com/bgian/Sketch-iOS-Library/issues/new">new issue<a/>
+1. Create a [new issue](https://github.com/bgian/Sketch-iOS-Library/issues/new)
 2. Add `Feedback` tag
 3. Be descriptive!
 

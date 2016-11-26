@@ -1,6 +1,6 @@
 # iOS Library for Sketch
 
-![cover](https://cloud.githubusercontent.com/assets/3231370/20637519/8398cf8e-b358-11e6-81c7-bcf8f6236a0e.png)
+![cover](https://cloud.githubusercontent.com/assets/3231370/20637535/af47ea48-b358-11e6-9067-3e63bb7b7fb4.png)
 
 I’ve decided to take styles from Xcode and do my best to replicate them for Sketch.
 

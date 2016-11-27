@@ -41,19 +41,19 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 2. Printed out the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
 3. Used font tracking [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends
 
-# Thanks!
+# Get Involved
 
-#### Contribute
+#### Request designs
 1. Create a [new issue](https://github.com/bgian/Sketch-iOS-Library/issues/new)
 2. Add `Suggestion` tag
 3. Be descriptive!
 
-#### Feedback
+#### Leave feedback
 1. Create a [new issue](https://github.com/bgian/Sketch-iOS-Library/issues/new)
 2. Add `Feedback` tag
 3. Be descriptive!
 
-#### Contact
+#### Ask a question
 - <a href="https://twitter.com/_bgian">@_bgian</a>
 - <a href="mailto:hi@bobby.so">hi@bobby.so</a>
 - <a href="http://m.me/bobbygiangeruso">Messenger</a>

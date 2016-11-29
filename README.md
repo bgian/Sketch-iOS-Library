@@ -47,14 +47,13 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 
 #### Suggest a style
 1. Create a [new issue](https://github.com/bgian/Sketch-iOS-Library/issues/new)
-2. Add `Suggestion` tag
-3. Describe the iOS style that should be replicated
-4. ✨ Bonus: Follow the issue to provide feedback
+2. Describe the iOS style that should be replicated
+3. ✨ Bonus: Follow the issue to provide feedback
 
 #### Leave feedback
 1. Create a [new issue](https://github.com/bgian/Sketch-iOS-Library/issues/new)
-2. Add `Feedback` tag
-3. Mention which style you have feedback on
+2. Mention which style you have feedback on
+3. ✨ Bonus: Follow the issue to provide feedback
 
 #### Ask a question
 - <a href="https://twitter.com/_bgian">@_bgian</a>

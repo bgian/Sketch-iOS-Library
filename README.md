@@ -5,7 +5,7 @@ I’ve decided to take styles from Xcode and do my best to replicate them for Sk
 You'll need to download San Francisco: https://developer.apple.com/fonts/
 
 # UIBlurEffectStyle
-The API doesn't provide any specs for blurs, so it's a challange to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.
+The API doesn't provide any specs for blurs, so it's a challenge to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.
 
 #### Usage
 1. Open `UIBlurEffectStyle.sketch`

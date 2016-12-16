@@ -8,7 +8,7 @@ You'll need to download San Francisco: https://developer.apple.com/fonts/
 The API doesn't provide any specs for blurs, so it's a challenge to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.
 
 #### Usage
-1. Open `UIBlurEffectStyle.sketch`
+1. Open [`UIBlurEffectStyle.sketch`](https://github.com/bgian/Sketch-iOS-Library/blob/master/UIBlurEffectStyle/UIBlurEffectStyle.sketch)
 2. Copy style of a blur type
 3. Paste style to any shape
 
@@ -24,7 +24,7 @@ The API doesn't provide any specs for blurs, so it's a challenge to replicate. F
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
 #### Usage
-1. Open `UIFontTextStyle.sketch`
+1. Open [`UIFontTextStyle.sketch`](https://github.com/bgian/Sketch-iOS-Library/blob/master/UIFontTextStyle/UIFontTextStyle.sketch)
 2. Copy & Paste artboard into Sketch document
 3. Assign texts to a system style
 

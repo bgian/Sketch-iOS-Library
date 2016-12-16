@@ -2,7 +2,7 @@
 
 I’ve decided to take styles from Xcode and do my best to replicate them for Sketch. Along the way, I documented the process of how I ended up with the result so you can look into things even further.
 
-You'll need to download San Francisco: https://developer.apple.com/fonts/
+You'll need to download Apple's SF font: https://developer.apple.com/fonts/
 
 # UIBlurEffectStyle
 The API doesn't provide any specs for blurs, so it's a challenge to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.

@@ -4,7 +4,7 @@ I’ve decided to take styles from Xcode and do my best to replicate them for Sk
 
 You'll need to download Apple's SF font: https://developer.apple.com/fonts/
 
-# UIBlurEffectStyle
+## UIBlurEffectStyle
 The API doesn't provide any specs for blurs, so it's a challenge to replicate. For performance concerns, I understand why Apple isn't open about these specs. However, as designers I think we shuold be aware of these constraints and design with them.
 
 #### Usage
@@ -20,7 +20,7 @@ The API doesn't provide any specs for blurs, so it's a challenge to replicate. F
   - `dark`
 3. Replicated each blur type in Sketch
 
-# UIFontTextStyle
+## UIFontTextStyle
 Apple’s system fonts are designed for legibility and provide a variety of sizes which automatically react to accessibility features. You can read more about why it’s best to use system fonts on the [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/visual-design/typography/).
 
 #### Usage
@@ -43,7 +43,7 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 2. Printed out the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
 3. Used font tracking [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends
 
-# Get Involved
+## Get Involved
 
 #### Suggest a style
 1. Create a [new issue](https://github.com/bgian/Sketch-iOS-Library/issues/new)

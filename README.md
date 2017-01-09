@@ -1,4 +1,4 @@
-![cover](https://cloud.githubusercontent.com/assets/3231370/20651210/bf0e03c0-b4ae-11e6-9eaa-074b8a7d5f1d.png)
+![cover](https://cloud.githubusercontent.com/assets/3231370/21756145/415b62d4-d5eb-11e6-96ab-38c00881881f.png)
 
 I’ve decided to take styles from Xcode and do my best to replicate them for Sketch. Along the way, I documented the process of how I ended up with the result so you can look into things even further.
 

@@ -1,3 +1,5 @@
+![bw](https://cloud.githubusercontent.com/assets/3231370/25193571/914bdc56-2505-11e7-96ea-d6f14272ef96.png)
+
 # iOS Library for Sketch
 
 I’ve decided to take styles from Xcode and do my best to replicate them for Sketch. Along the way, I documented the process of how I ended up with the result so you can look into things even further.

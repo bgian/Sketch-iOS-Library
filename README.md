@@ -1,7 +1,5 @@
 ![bw](https://cloud.githubusercontent.com/assets/3231370/25193603/aa5b9a7e-2505-11e7-99b0-3176c21d8ca7.png)
 
-# iOS Library for Sketch
-
 I’ve decided to take styles from Xcode and do my best to replicate them for Sketch. Along the way, I documented the process of how I ended up with the result so you can look into things even further.
 
 You'll need to download Apple's SF font: https://developer.apple.com/fonts/

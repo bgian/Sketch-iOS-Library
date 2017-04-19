@@ -1,4 +1,4 @@
-![bw](https://cloud.githubusercontent.com/assets/3231370/25193571/914bdc56-2505-11e7-96ea-d6f14272ef96.png)
+![bw](https://cloud.githubusercontent.com/assets/3231370/25193603/aa5b9a7e-2505-11e7-99b0-3176c21d8ca7.png)
 
 # iOS Library for Sketch
 

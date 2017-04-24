@@ -15,9 +15,9 @@ The API doesn't provide any specs for blurs, so it's a challenge to replicate. F
 #### Process
 1. Created a few colorful shapes to blur
 2. Rendered and exported all three [types of blur](https://developer.apple.com/reference/uikit/uiblureffectstyle) over the shapes in Xcode:
-  - `extraLight`
-  - `light`
-  - `dark`
+    - `extraLight`
+    - `light`
+    - `dark`
 3. Replicated each blur type in Sketch
 
 ## UIFontTextStyle
@@ -30,16 +30,16 @@ Apple’s system fonts are designed for legibility and provide a variety of size
 
 #### Process
 1. Made a list of all ten text styles:
-  - `Title1`
-  - `Title2`
-  - `Title3`
-  - `Headline`
-  - `Subhead`
-  - `Body`
-  - `Footnote`
-  - `Caption1`
-  - `Caption2`
-  - `Callout`
+    - `Title1`
+    - `Title2`
+    - `Title3`
+    - `Headline`
+    - `Subhead`
+    - `Body`
+    - `Footnote`
+    - `Caption1`
+    - `Caption2`
+    - `Callout`
 2. Printed out the specs in Xcode (e.g. `UIFontTextStyle(_rawValue: UICTFontTextStyleTitle1): .SFUIDisplay-Light, 28`)
 3. Used font tracking [designcode.io](https://designcode.io/cloud/chapter1/iOS-Tracking.jpg) recommends
 
